@@ -337,6 +337,7 @@ This project demonstrates expertise in:
 
 ### Business Insights Dashboard
 
+<img width="1277" height="727" alt="8" src="https://github.com/user-attachments/assets/16878251-e4dc-4e05-9dbe-7d1e4ded485b" />
 
 
 ---
