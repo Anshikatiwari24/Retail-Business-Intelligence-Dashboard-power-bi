@@ -302,7 +302,8 @@ This project demonstrates expertise in:
 
 ### Executive Dashboard
 
-(Add Screenshot)
+(<img width="1342" height="743" alt="1" src="https://github.com/user-attachments/assets/c2e61f9d-7b35-4f5b-9ea2-dfd075ad3fce" />
+)
 
 ### Sales Analytics Dashboard
 
