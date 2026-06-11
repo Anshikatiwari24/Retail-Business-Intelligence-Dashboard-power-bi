@@ -302,36 +302,42 @@ This project demonstrates expertise in:
 
 ### Executive Dashboard
 
-(<img width="1342" height="743" alt="1" src="https://github.com/user-attachments/assets/c2e61f9d-7b35-4f5b-9ea2-dfd075ad3fce" />
-)
+<img width="1342" height="743" alt="1" src="https://github.com/user-attachments/assets/c2e61f9d-7b35-4f5b-9ea2-dfd075ad3fce" />
+
 
 ### Sales Analytics Dashboard
 
-(Add Screenshot)
+<img width="1290" height="722" alt="2" src="https://github.com/user-attachments/assets/d85f2114-a611-42d8-8577-15a4d8bb366f" />
+
 
 ### Customer Analytics Dashboard
 
-(Add Screenshot)
+<img width="1282" height="725" alt="3" src="https://github.com/user-attachments/assets/2aea3e86-c6b2-48f3-a4a2-58cf33d38081" />
+
 
 ### Profitability Dashboard
 
-(Add Screenshot)
+<img width="1286" height="726" alt="4" src="https://github.com/user-attachments/assets/db3c83fd-c78a-42d2-a3e5-2291da9cf709" />
+
 
 ### Geographic Dashboard
 
-(Add Screenshot)
+<img width="1282" height="725" alt="5" src="https://github.com/user-attachments/assets/cc4e332a-4c50-4e81-a362-7ecb15673fe7" />
+
 
 ### Forecast & Target Dashboard
 
-(Add Screenshot)
+<img width="1276" height="725" alt="6" src="https://github.com/user-attachments/assets/621e018a-fa3d-41a7-8012-96955393893e" />
+
 
 ### Advanced Analytics Dashboard
 
-(Add Screenshot)
+<img width="1313" height="726" alt="7" src="https://github.com/user-attachments/assets/55a7f091-bbc2-4ae6-a2bc-d9b63ce625bd" />
+
 
 ### Business Insights Dashboard
 
-(Add Screenshot)
+
 
 ---
 
