@@ -355,6 +355,9 @@ Power BI • Excel • SQL • Tableau • Data Visualization • Business Intel
 
 ---
 
-# ⭐ Project Outcome
+# Connect With Me
+LinkedIn: (www.linkedin.com/in/
+anshikatiwari2405
+Vanity URL name
+)
 
-This project successfully transformed raw retail data into a comprehensive Business Intelligence solution capable of supporting strategic decision-making through data-driven insights, forecasting, and performance monitoring.
