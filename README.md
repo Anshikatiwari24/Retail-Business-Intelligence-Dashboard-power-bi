@@ -358,6 +358,5 @@ Power BI • Excel • SQL • Tableau • Data Visualization • Business Intel
 # Connect With Me
 LinkedIn: (www.linkedin.com/in/
 anshikatiwari2405
-Vanity URL name
 )
 
